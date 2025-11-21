@@ -1,0 +1,8 @@
+{
+  "name": "Senhor Gótico",
+  "description": "A music blog creation suite. Analyze YouTube links, edit cover art with AI, animate visuals with Veo, and debate music with a Live AI critic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
